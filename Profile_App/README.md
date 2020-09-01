@@ -5,7 +5,7 @@
 ## Drawer  
 <img src="App2.jpg" width="432" height="936" />
 
-This is the basic and very easiest app for students to sart with flutter development.
+This is the very basic and easiest app for students to sart with flutter development.
 
 ## Getting Started
 
