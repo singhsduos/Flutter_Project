@@ -63,7 +63,7 @@ class HomePage extends StatelessWidget {
                 ), 
                 onTap: (){},
                 title: Text(
-                  '+91 9628491678',
+                  '+91 962 XXX 1678 ',
                   style: TextStyle(
                       color: Colors.black,
                       fontWeight: FontWeight.bold,
