@@ -1,6 +1,11 @@
-# intro
+# Profile App
+ In this I created 2 pages
+## HomePage  
+<img src="App1.jpg" width="432" height="936" />
+## Drawer  
+<img src="App2.jpg" width="432" height="936" />
 
-A new Flutter project.
+This is the basic and very easiest app for students to sart with flutter development.
 
 ## Getting Started
 
@@ -14,3 +19,14 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## Tools Required
+VS code with flutter sdk and also with flutter and dart extension.
+Android Studio with android sdk.
+
+## Important suggestion
+* If your laptop ram less than 4gb then instead of installing android emulator in android studio you can go with physical device(Your Mobile)
+* And more you can read flutter doc by clicking above link.
+
+## Thank You!
+
