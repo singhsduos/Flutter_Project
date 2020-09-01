@@ -60,10 +60,10 @@ class HomePage extends StatelessWidget {
                 leading: Icon(
                   Icons.phone,
                   color: Colors.black,
-                ), 
-                onTap: (){},
+                ),
+                onTap: () {},
                 title: Text(
-                  '+91 962 XXX 1678 ',
+                  '+91 9628491678',
                   style: TextStyle(
                       color: Colors.black,
                       fontWeight: FontWeight.bold,
@@ -83,7 +83,7 @@ class HomePage extends StatelessWidget {
                   Icons.email,
                   color: Colors.black,
                 ),
-                onTap: (){},
+                onTap: () {},
                 title: Text(
                   'singhs.duos@gmail.com',
                   style: TextStyle(
