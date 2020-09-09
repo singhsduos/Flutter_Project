@@ -1,6 +1,19 @@
-# FireBase
+# Wallify
 
-A new Flutter project.
+
+A Flutter project with implementation of all firebase libraries for Android and iOS both.
+
+
+### Screenshots
+
+<img src="1.jpg" height="300em" /> <img src="2.jpg" height="300em" />
+<img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" />
+<img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
+
+### NOTE
+
+- This project is still under development.
+
 
 ## Getting Started
 
