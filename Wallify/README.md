@@ -7,8 +7,8 @@ A Flutter project with implementation of all firebase libraries for Android and 
 ### Screenshots
 
 <img src="1.jpg" height="300em" /> <img src="2.jpg" height="300em" />
-<img src="https://thumbs.gfycat.com/reasonableflusteredgrunion" height="300em" />
-<img src='https://gfycat.com/ifr/ReasonableFlusteredGrunion' frameborder='0' scrolling='no' allowfullscreen width="640" height="1466" />
+<img src="https://thumbs.gfycat.com/reasonableflusteredgrunion.gif" height="300em" />
+
 
 ### NOTE
 
