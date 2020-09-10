@@ -7,7 +7,7 @@ A Flutter project with implementation of all firebase libraries for Android and 
 ### Screenshots
 
 <img src="1.jpg" height="300em" /> <img src="2.jpg" height="300em" />
-<img src="3.gif" height="300" />
+<img src="https://gfycat.com/unevengiganticindianskimmer.gif" height="300" />
 
 
 ### NOTE
