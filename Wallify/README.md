@@ -5,7 +5,6 @@ In this repository there is 3 project :
 2. Wallify (Here I used FireBase as Backend to store update and delete images from backend using firebase and it will reflect on users phone)
 3. ML-Kit (Imlementation of dependencies of ml given by flutter for Text,BarCode,Label and Face Detector)
 
-**/NOTE FROM AUTHOR**
 
 # Wallify
 And This is my main project in this repository.
