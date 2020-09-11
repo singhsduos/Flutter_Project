@@ -25,12 +25,14 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Wallify',
       theme: ThemeData(
-        primarySwatch: Colors.lime,
+        primarySwatch: Colors.lime, // theme for ML-Kit
+     // primarySwatch: Colors.orange, // theme for CrudApp
+     // primarySwatch: Colors.grey, // theme for Wallify   
       ),
        navigatorObservers: <NavigatorObserver>[observer],
-      // home: WallScreen(analytics: analytics, observer: observer),
-      //home: CrudSample(),
-      home: MLHome(),
+      // home: WallScreen(analytics: analytics, observer: observer), // path for Wallify
+      //home: CrudSample(), // path for CrudApp
+      home: MLHome(), // path for MLHome
     );
   }
 }
