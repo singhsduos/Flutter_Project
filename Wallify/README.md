@@ -7,9 +7,7 @@ A Flutter project with implementation of all firebase libraries for Android and 
 ### Screenshots
 
 <img src="1.jpg" height="300em" /> <img src="2.jpg" height="300em" />
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:221.92%;position:relative;"><iframe width="260" height="577" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4em96v"></iframe></div><p><a href="https://imgflip.com/gif/4em96v">via Imgflip</a></p></div>
-<img src="https://thumbs.gfycat.com/GoldenCaringBurro-size_restricted.gif" height="300em" />
-<img src="https://thumbs.gfycat.com/BadPrestigiousChrysalis-size_restricted.gif" height="300em" />
+<img src="3.gif" height="300em" />
 
 
 
