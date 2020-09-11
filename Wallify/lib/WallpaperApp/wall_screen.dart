@@ -56,15 +56,13 @@ class _WallScreensState extends State<WallScreens> {
   // }
 
   Future<Null> _currentScreen() async {
-    await widget.analytics.setCurrentScreen(screenName: null)
-        .logEvent(name: 'tap to full screen', parameters: <String, dynamic>{});
-        
+    await widget.analytics.setCurrentScreen(
+        screenName: 'Wall Screens', screenClassOverride: 'WallScreens');
   }
 
   Future<Null> _sendAnalytics() async {
     await widget.analytics
         .logEvent(name: 'tap to full screen', parameters: <String, dynamic>{});
-        
   }
 
   @override
@@ -80,7 +78,7 @@ class _WallScreensState extends State<WallScreens> {
       });
     });
 
-    // _currentScreen();
+    _currentScreen();
   }
 
   @override
@@ -120,6 +118,7 @@ class _WallScreensState extends State<WallScreens> {
                           new BorderRadius.all(new Radius.circular(8.0)),
                       child: InkWell(
                         onTap: () {
+                          _sendAnalytics();
                           // createInterstitialAd()
                           //   ..load()
                           //   ..show();
