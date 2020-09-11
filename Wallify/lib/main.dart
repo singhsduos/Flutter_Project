@@ -1,11 +1,12 @@
 import 'dart:core';
 import 'package:FireBase/WallpaperApp/wall_screen.dart';
+import 'package:FireBase/mlkit/ml_home.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'WallpaperApp/wall_screen.dart';
 import 'package:firebase_analytics/firebase_analytics.dart';
 import 'package:firebase_analytics/observer.dart';
-
+import 'CrudApp/crud_sample.dart';
 // ignore: avoid_void_async
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -20,15 +21,16 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return new MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Wallify',
-      theme: new ThemeData(
-        primarySwatch: Colors.grey,
+      theme: ThemeData(
+        primarySwatch: Colors.lime,
       ),
        navigatorObservers: <NavigatorObserver>[observer],
-      // home: new WallScreen(analytics: analytics, observer: observer),
-      home: WallScreens(analytics: analytics, observer: observer),
+      // home: WallScreen(analytics: analytics, observer: observer),
+      //home: CrudSample(),
+      home: MLHome(),
     );
   }
 }
