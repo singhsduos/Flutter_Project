@@ -1,13 +1,22 @@
-# Wallify
+**NOTE FROM AUTHOR**
 
+In this repository there is 3 project : 
+1. CrudApp (Implementation of Google and Firebase Authentication)
+2. Wallify (Here I used FireBase as Backend to store update and delete images from backend using firebase and it will reflect on users phone)
+3. ML-Kit (Imlementation of dependencies of ml given by flutter for Text,BarCode,Label and Face Detector)
+
+**/NOTE FROM AUTHOR**
+
+# Wallify
+And This is my main project in this repository.
 
 A Flutter project with implementation of all firebase libraries for Android and iOS both.
 
 
-### Screenshots
+### Screenshots of above all Projects
 
 <img src="1.jpg" height="300em" /> <img src="2.jpg" height="300em" />
-<img src="3.gif" height="300em" />
+<img src="3.gif" height="300em" /> <img src="4.gif" height="300em" />
 
 
 
